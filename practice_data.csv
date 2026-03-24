@@ -1,0 +1,4 @@
+Method,API endpoint,Body
+GET,/posts/1,
+GET,/posts/2,
+POST,/posts,"{""title"": ""test k6"", ""body"": ""hello jenkins"", ""userId"": 1}"
